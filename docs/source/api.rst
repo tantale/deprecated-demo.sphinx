@@ -35,7 +35,7 @@ Submodules
    :show-inheritance:
 
 
-.. automodule:: deprecated_demo.sphinx.main
+.. automodule:: deprecated_demo.sphinx.invalid_usages
    :members:
    :undoc-members:
    :show-inheritance:
