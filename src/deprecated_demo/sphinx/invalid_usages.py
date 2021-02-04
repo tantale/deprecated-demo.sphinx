@@ -11,13 +11,16 @@ from deprecated.sphinx import deprecated
 def foo():
     """ bad: ``@deprecated`` """
 
+
 @deprecated(reason="bad reason")
 def foo():
     """ bad: ``@deprecated(reason="bad reason")`` """
 
+
 @deprecated(reason=5)
 def foo():
     """ bad: ``@deprecated(reason=5)`` """
+
 
 @deprecated(version=3.14)
 def foo():
