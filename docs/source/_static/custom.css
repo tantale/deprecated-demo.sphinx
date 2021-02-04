@@ -1,0 +1,18 @@
+/* This file intentionally left blank. */
+
+.versionmodified {
+    font-style: italic;
+}
+
+span.versionmodified.added {
+    color: darkgreen;
+}
+
+span.versionmodified.changed {
+    color: darkorange;
+}
+
+span.versionmodified.deprecated {
+    color: darkred;
+}
+
