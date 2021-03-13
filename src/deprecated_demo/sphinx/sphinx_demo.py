@@ -23,6 +23,10 @@ from deprecated.sphinx import versionchanged
     version='0.3.0',
 )
 @versionchanged(
+    reason="You should use :py:func:`add` instead",
+    version='0.2.1',
+)
+@versionchanged(
     reason='Well, I add a new feature in this function. '
            'It is very useful as you can see in the example below, so try it. '
            'This is a very very very very very long sentence.',
