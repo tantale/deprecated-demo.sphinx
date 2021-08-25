@@ -8,6 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="deprecated" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="$MODULE_DIR$/setup.cfg" />
