@@ -5,6 +5,7 @@ Mean
 Utility function to calculate the mean of numbers
 """
 
+
 def mean(values):
     """
     Compute the arithmetic mean (“average”) of values.

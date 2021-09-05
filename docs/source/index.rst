@@ -7,7 +7,7 @@ Welcome to Deprecated-Demo.Sphinx's documentation!
 ==================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
    api.rst

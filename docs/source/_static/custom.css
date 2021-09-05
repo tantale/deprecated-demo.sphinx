@@ -16,3 +16,7 @@ span.versionmodified.deprecated {
     color: darkred;
 }
 
+dl.py {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
