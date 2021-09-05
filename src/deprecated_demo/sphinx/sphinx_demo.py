@@ -41,3 +41,23 @@ def successor(n):
     :return: number + 1
     """
     return n + 1
+
+
+@versionadded(reason='Here is a new class.', version='0.3.0')
+class BaseClass:
+    """
+    This is a base class
+    """
+
+
+class SubClass1(BaseClass):
+    """
+    A subclass.
+    """
+
+
+@versionadded(reason='This is a new subclass of BaseClass.', version='0.4.0')
+class SubClass2(BaseClass):
+    """
+    A new subclass.
+    """
